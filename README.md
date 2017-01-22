@@ -24,6 +24,12 @@ cd lab1
 
 Create and install packages by entering the command:
 ```
-conda env create -f lab1.yml
+conda create --name lab1
+source activate lab1
+conda install seaborn pandas jupyter matplotlib  
 ```
 
+Start the notebook by entering the command:
+```
+jupyter notebook
+```
