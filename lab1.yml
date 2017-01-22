@@ -82,5 +82,4 @@ dependencies:
   - jupyter-console==5.0.0
   - jupyter-core==4.2.1
   - prompt-toolkit==1.0.9
-prefix: /afs/inf.ed.ac.uk/user/s14/s1444673/anaconda3/envs/lab1
 

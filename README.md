@@ -24,6 +24,6 @@ cd lab1
 
 Create and install packages by entering the command:
 ```
-conda env create -f environment.yml
+conda env create -f lab1.yml
 ```
 
