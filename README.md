@@ -33,3 +33,5 @@ Start the notebook by entering the command:
 ```
 jupyter notebook
 ```
+
+Read through the *IBM Model1* notebook. The *animation* notebook contains the code used to create the animated parameter change visualizations, and is not part of the lab. You may use it if you wish to create your own animations.
