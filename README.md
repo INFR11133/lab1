@@ -14,6 +14,12 @@ Start the installation by entering:
 ```
 bash Anaconda3-4.2.0-Linux-x86_64.sh
 ```
+*In case of disk quota issues, download and install miniconda instead*
+Open a terminal on the DICE machine and then type the following command:
+```
+wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash Miniconda3-latest-Linux-x86_64.sh
+```
 
 ### Set up a virtual environment and install packages
 Clone the lab github repository:
