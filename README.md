@@ -5,14 +5,8 @@ We use Anaconda + Python 3.5 for this lab. This is a short guide on installing s
 ### Download Anaconda
 Open a terminal on the DICE machine and then type the following command:
 ```
-wget https://repo.continuum.io/archive/Anaconda3-4.2.0-Linux-x86_64.sh
-```
-This will download the installation file.
-
-Start the installation by entering:
-
-```
-bash Anaconda3-4.2.0-Linux-x86_64.sh
+wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash Miniconda3-latest-Linux-x86_64.sh
 ```
 
 ### Set up a virtual environment and install packages
